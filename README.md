@@ -1,2 +1,2 @@
-# IntuitiveGAN
-This repo consists of my understanding of GANs. It contains several useful resources which you can check out.
+# What is GAN?
+**GAN** stands for <span style="color:red">Generative</span> Adversarial Networks.
