@@ -20,10 +20,19 @@ A discriminative model is one typically used for classification in machine learn
 </p>
 
 
-
-
 * The generator's goal is to fool the discriminator.
 * The discriminator's goal is to distinguish real and fake.
 * They learn by adversarially competing with each other and in the end fakes look real.
 
 
+### Combining Generator and Discriminator: Complete architecture of a basic GAN
+![image](https://github.com/FreakyAI-star/IntuitiveGAN/assets/95335223/9ed84744-05a9-461d-9ddc-1285871740cd)
+![image](https://github.com/FreakyAI-star/IntuitiveGAN/assets/95335223/425a7b86-b0cb-4a52-b113-fd5ff6fe6b8a)
+![image](https://github.com/FreakyAI-star/IntuitiveGAN/assets/95335223/f5c3429d-5911-445f-9dc8-9863cdf1768c)
+
+* GANs are trained in an alternating fashion
+* The two models should be at similar skill levels so that the generator can know in which direction to improve.
+
+
+# Building MNSIT GAN
+Check out this ![notebook]()
