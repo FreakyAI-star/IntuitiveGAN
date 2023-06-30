@@ -35,4 +35,4 @@ A discriminative model is one typically used for classification in machine learn
 
 
 # Building MNSIT GAN
-Check out this ![notebook]()
+Check out this [notebook](MNIST_GAN.ipynb)
